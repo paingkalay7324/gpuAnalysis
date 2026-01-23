@@ -1,0 +1,1 @@
+### Data from Kaggle: [GPU Data](https://www.kaggle.com/datasets/ellimaaac/gpus-specs-from-1986-to-2026?resource=download)

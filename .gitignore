@@ -1,1 +1,8 @@
 .venv/
+
+# Quarto preview output (e.g. readme.md)
+README.html
+README_files/
+
+# Quarto cache and build
+.quarto/
